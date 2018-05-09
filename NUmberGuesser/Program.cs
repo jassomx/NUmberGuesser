@@ -11,6 +11,7 @@ namespace NUmberGuesser
         static void Main(string[] args)
         {
             bool playAgain = true;
+            string hello = "Hello";
 
             GetAppInfo(); // Run GetAppInfo method
             GreetUser(); // Run GreetUser method
